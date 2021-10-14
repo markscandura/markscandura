@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markscandura
-- 👀 I’m interested in systems processes
-- 🌱 I’m currently learning Javascript, Azure, Xcode, Swift
-- 💞️ I’m looking to collaborate on managed services.
+- 👀 I’m interested in business processes
+- 🌱 I’m currently learning Node.js, Express, Handlebarss, HTML, CSS, Javascript, Xcode & Swift
+- 💞️ I’m looking to collaborate on IT-focused Business Applications.
 - 📫 How to reach me: mark@charmcitytechgroup.com
 
 <!---
